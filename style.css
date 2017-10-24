@@ -1,0 +1,54 @@
+h1
+{
+	color: #161616;
+	text-align: center;
+}
+
+h2
+{
+	color: #40506d;
+}
+
+p
+{
+	color: #40506d;
+}
+
+body
+{
+	background-color: #feffce;
+}
+
+.tableaux
+{
+	border: blue 2px solid;
+}
+
+#photo_anne
+{
+	max-width:25%;
+	height: auto;
+	float: right;
+}
+
+#bamboo_saignant_1
+{
+	max-width: 27%;
+	height: auto;
+}
+
+#tryptique_arbres
+{
+	max-width: 50%;
+	height: auto;
+	float: right;
+	position: top;
+}
+
+#cheminee_saigante
+{
+	position: relative;
+	width: 25%;
+	height: auto;
+	display: block;
+}
