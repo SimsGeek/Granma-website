@@ -45,10 +45,12 @@ body
 	position: top;
 }
 
-#cheminee_saigante
+#cheminee_saignante
 {
 	position: relative;
-	width: 25%;
+	max-width: 25%;
 	height: auto;
-	display: block;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	transform: rotate(-90deg);
 }
